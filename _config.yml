@@ -16,7 +16,7 @@ footer: ThirdSense
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/sense_third
   - title: facebook
     url:
   - title: stack-overflow
@@ -24,7 +24,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/misterjoa
 
 # Build settings
 markdown: kramdown
